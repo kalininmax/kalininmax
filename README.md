@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://github.com/kalininmax/kalininmax/blob/main/profile-cover.png" alt="Hi! I am Maksim Kalinin. Frontend developer based in Kirov."/>
-</p>
+<img src="https://github.com/kalininmax/kalininmax/blob/main/profile-cover.png" alt="Hi! I am Maksim Kalinin. Frontend developer based in Kirov."/>
 
 <p>
   Welcome to my GitHub page!<br>
