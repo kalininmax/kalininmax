@@ -1,4 +1,6 @@
-### Hi there 👋
+<p>
+  <img src="https://github.com/kalininmax/kalininmax/blob/main/profile-cover.png" alt="Hi! I am Maksim Kalinin. Frontend developer based in Kirov."/>
+</p>
 
 <!--
 **kalininmax/kalininmax** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
