@@ -10,7 +10,7 @@
 ### 🛠 My tech stack:
 
 - **Responsive web-development:** HTML5, CSS/SCSS;
-- **Frontend:** Vanilla JavaScript (ES6+) ❤️;
+- **Frontend:** Vanilla JavaScript (ES6+);
 - **Code bundlers:** Gulp;
 - **UX/UI:** Figma, Adobe Photoshop.
 
