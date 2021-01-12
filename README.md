@@ -14,6 +14,13 @@
 - **Code bundlers:** Gulp;
 - **UX/UI:** Figma, Adobe Photoshop.
 
+### 💻 Some of my projects:
+
+| Project name | Description | Technologies  |
+| ------------ | ----------- | ------------- |
+| [Device](https://github.com/kalininmax/device) | Simple fixed site for online gadgets store | HTML, CSS, JavaScript |
+| [Mishka](https://github.com/kalininmax/mishka) | Adaptive site for online store for handmade things | HTML, SCSS, JavaScript, Gulp |
+
 <!--
 **kalininmax/kalininmax** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
