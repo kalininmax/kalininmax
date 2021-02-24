@@ -10,9 +10,11 @@
 ### 🛠 My tech stack:
 
 - **Responsive web-development:** HTML5, CSS/SCSS;
-- **Frontend:** Vanilla JavaScript (ES6+);
 - **Code bundlers:** Gulp;
 - **UX/UI:** Figma, Adobe Photoshop.
+
+### 👨‍🎓 Currently learning:
+- Vanilla JavaScript (ES6+)
 
 ### 💻 Some of my projects:
 
@@ -20,6 +22,7 @@
 | ------------ | ----------- | ------------- |
 | [Device](https://github.com/kalininmax/device) | Simple fixed site for online gadgets store | HTML, CSS, JavaScript |
 | [Mishka](https://github.com/kalininmax/mishka) | Adaptive site for online store for handmade things | HTML, SCSS, JavaScript, Gulp |
+| [Keksobooking](https://github.com/kalininmax/mishka) | Simple "Booking"-like app, where you can post ads for renting real estate | Vanilla JavaScript (ES6) |
 
 <!--
 **kalininmax/kalininmax** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
