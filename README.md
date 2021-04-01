@@ -10,7 +10,7 @@
 ### 🛠 My tech stack:
 
 - **Responsive web-development:** HTML5, CSS/SCSS;
-- **Code bundlers:** Gulp;
+- **Code bundlers:** Gulp, Webpack;
 - **UX/UI:** Figma, Adobe Photoshop.
 
 ### 👨‍🎓 Currently learning:
