@@ -15,6 +15,7 @@
 
 ### 👨‍🎓 Currently learning:
 - Vanilla JavaScript (ES6+)
+- ReactJS
 
 ### 💻 Some of my projects:
 
