@@ -8,17 +8,17 @@
 </p>
 
 ### 🛠 My tech stack:
-
-- **Responsive web-development:** HTML5, CSS/SCSS;
+- **Frontend:** HTML5, CSS, JavaScript (ES6+);
+- **Styling:** CSS/SCSS, CSS modules;
 - **Code bundlers:** Gulp, Webpack;
-- **UX/UI:** Figma, Adobe Photoshop.
+- **UX/UI:** Figma.
 
 ### 👨‍🎓 Currently learning:
 - Vanilla JavaScript (ES6+)
 - ReactJS
 - GSAP
 
-### 💻 Some of my projects:
+### 💻 Some of my training projects:
 
 | Project name | Description | Technologies  |
 | ------------ | ----------- | ------------- |
