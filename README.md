@@ -8,10 +8,10 @@
 </p>
 
 ### 🛠 My tech stack:
-- **Frontend:** HTML5 (Nunjucks), CSS, JavaScript (ES6+);
-- **Styling:** CSS/SCSS, CSS modules;
-- **Code bundlers:** Gulp, Webpack;
-- **UX/UI:** Figma.
+- HTML5 (Nunjucks)
+- CSS/SCSS, CSS modules
+- JavaScript (ES6+)
+- **Code bundlers:** Gulp, Webpack
 
 ### 👨‍🎓 Currently learning:
 - Vanilla JavaScript (ES6+)
