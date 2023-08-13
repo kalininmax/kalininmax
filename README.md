@@ -14,9 +14,7 @@
 - **Code bundlers:** Gulp, Webpack
 
 ### 👨‍🎓 Currently learning:
-- Vanilla JavaScript (ES6+)
 - ReactJS
-- GSAP
 
 <!-- ### 💻 Some of my training projects:
 
