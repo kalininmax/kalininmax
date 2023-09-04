@@ -8,8 +8,8 @@
 </p>
 
 ### 🛠 My tech stack:
-- HTML5 (Nunjucks)
-- CSS/SCSS, CSS modules
+- HTML, Nunjucks
+- CSS, SCSS, CSS modules
 - JavaScript (ES6+)
 - **Code bundlers:** Gulp, Webpack
 
