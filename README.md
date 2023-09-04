@@ -12,6 +12,7 @@
 - CSS, SCSS, CSS modules
 - JavaScript (ES6+)
 - **Code bundlers:** Gulp, Webpack
+- **CMS:** Kirby CMS
 
 ### 👨‍🎓 Currently learning:
 - ReactJS
