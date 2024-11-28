@@ -8,11 +8,11 @@
 </p>
 
 ### 🛠 My tech stack:
-- HTML, Nunjucks
-- CSS, SCSS, CSS modules
-- JavaScript (ES6+)
+- **Templating:** HTML, Nunjucks
+- **Styling:** CSS, SCSS, CSS modules
+- **Scripting:** JavaScript, TypeScript
 - **Code bundlers:** Gulp, Webpack
-- **CMS:** Kirby CMS
+- **CMS:** Kirby CMS, Strapi
 
 ### 👨‍🎓 Currently learning:
 - ReactJS
