@@ -15,7 +15,7 @@
 - **CMS:** Kirby CMS, Strapi
 
 ### 👨‍🎓 Currently learning:
-- ReactJS
+- ReactJS, NextJS, TypeScript
 
 <!-- ### 💻 Some of my training projects:
 
